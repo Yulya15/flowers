@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 34" width="21" height="34">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f24841 } 
+	</style>
+	<g id="2 экран">
+		<g id="стрелки">
+			<path id="Фигура 4" class="shp0" d="M20 0L21 0L1 16.98L21 34L20 34L0 17L20 0Z" />
+		</g>
+	</g>
+</svg>
